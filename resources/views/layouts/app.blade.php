@@ -78,7 +78,7 @@ aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navi
 
 Copyright - <a class="text-reset fw-bold text-decoration-none" target="_blank"
 
-href="https://twitter.com/danielgarax">
+href="https://youtu.be/nugrbr8dvvk?si=SKlUinRykLuktlB8">
 
 Daniel Correa
 
